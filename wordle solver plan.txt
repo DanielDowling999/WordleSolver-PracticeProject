@@ -1,0 +1,24 @@
+Three boxes: 
+
+One that lets the user type in letters that should be in the word
+
+One that lets the user type in letters that aren't in the word. 
+
+One that lets the user type in where the good letters should be?
+
+Don't allow spoiled text to be entered (only alphabetical characters).
+Must have at least one correct character.
+
+When allowed, search words.txt for words that match the proposed letters.
+
+Steps: 
+1. Take in User Input
+2. Parse User Input ('Find words containing good letters, without containing bad letters')
+3. Print result.
+
+
+ToDo: 
+- User Input and GUI
+- Implement the ability for the user to input where a specific letter should be (green). 
+
+Extra: Implement the ability for the user to input where a specific letter isn't (yellow).

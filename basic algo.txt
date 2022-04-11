@@ -1,0 +1,12 @@
+Set<String> possibleWords = new HashSet<String>();
+
+for int i = 0; i< words.txt.length; i+=5{
+	word = getWord(i);
+	if(word.containsAllLetters()){
+		possibleWords.add(word);
+	}
+}
+
+for(int j = 0; j<possibleWords.size()){
+	print(word); //or do whatever on an actual web version of this
+} 
