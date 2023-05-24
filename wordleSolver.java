@@ -7,7 +7,7 @@ public class wordleSolver {
 
 	public void solveWordle(){	
 		
-	char[] correctChars = {'a', 'b', 'y'};
+	char[] correctChars = {'a', 'b', 'z'};
 	char[] incorrectChars = {'g', 'w', 'l', 'k'};
 	Set<String> answers = findWords(correctChars, incorrectChars);
 	if(answers.size() == 0){
